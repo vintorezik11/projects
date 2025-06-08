@@ -1,3 +1,3 @@
 # projects
 
-KrestikiNoliki - крестики нолики с визуализацией через turtle
+<b>KrestikiNoliki</b> - крестики нолики с визуализацией через turtle
